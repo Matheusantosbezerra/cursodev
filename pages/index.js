@@ -1,6 +1,5 @@
-function home (){
-    return <h1>Teste 1 2</h1>
+function Home(){
+    return <h1>Teste 1</h1>
 }
 
-export default home;
-
+export default Home;
